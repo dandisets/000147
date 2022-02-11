@@ -12,9 +12,29 @@ about:
   schemaKey: Disorder
 access: []
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach:
+  - name: electrophysiological approach
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 77665528
+  numberOfFiles: 10
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
+    name: Homo sapiens - Human
+    schemaKey: SpeciesType
+  variableMeasured:
+  - Units
+  - ElectrodeGroup
 citation: 'Guan, Charles; Aflalo, Tyson; Zhang, Carey; Andersen, Richard (2022) PPC_Finger:
   human posterior parietal cortex recordings during attempted finger movements (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000147/draft'
