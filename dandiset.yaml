@@ -43,7 +43,7 @@ contributor:
   - identifier: https://ror.org/05dxps055
     name: California Institute of Technology
     schemaKey: Affiliation
-  email: charlesguan94@gmail.com
+  email: cguan@caltech.edu
   identifier: 0000-0002-8040-8844
   includeInCitation: true
   name: Guan, Charles
@@ -55,7 +55,7 @@ contributor:
   - identifier: https://ror.org/05dxps055
     name: California Institute of Technology
     schemaKey: Affiliation
-  email: tyson.aflalo@gmail.com
+  email: taflalo@caltech.edu
   identifier: 0000-0002-0101-2455
   includeInCitation: true
   name: Aflalo, Tyson
@@ -100,7 +100,10 @@ description: 'This dataset contains neural activity and trial information from a
 ethicsApproval: []
 id: DANDI:000147/draft
 identifier: DANDI:000147
-keywords: []
+keywords:
+- PPC
+- human
+- finger
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
@@ -115,7 +118,7 @@ relatedResource:
   repository: bioRxiv
   schemaKey: Resource
   url: https://doi.org/10.1101/2021.10.07.463105
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
