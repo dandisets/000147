@@ -112,12 +112,12 @@ name: 'PPC_Finger: human posterior parietal cortex recordings during attempted f
   movements'
 protocol: []
 relatedResource:
-- identifier: https://doi.org/10.1101/2021.10.07.463105
-  name: Preserved motor representations after paralysis
+- identifier: https://doi.org/10.7554/eLife.74478
+  name: Stability of motor representations after paralysis
   relation: dcite:IsDescribedBy
-  repository: bioRxiv
+  repository: eLife
   schemaKey: Resource
-  url: https://doi.org/10.1101/2021.10.07.463105
+  url: https://doi.org/10.7554/eLife.74478
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
