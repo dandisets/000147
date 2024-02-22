@@ -10,7 +10,9 @@ about:
   identifier: SNOMEDCT:11538006
   name: tetraplegia
   schemaKey: Disorder
-access: []
+access:
+- schemaKey: AccessRequirements
+  status: dandi:OpenAccess
 assetsSummary:
   approach:
   - name: electrophysiological approach
@@ -35,7 +37,7 @@ assetsSummary:
   variableMeasured:
   - Units
   - ElectrodeGroup
-citation: 'Guan, Charles; Aflalo, Tyson; Zhang, Carey; Andersen, Richard (2022) PPC_Finger:
+citation: 'Guan, Charles; Aflalo, Tyson; Zhang, Carey; Andersen, Richard (2024) PPC_Finger:
   human posterior parietal cortex recordings during attempted finger movements (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000147/draft'
 contributor:
